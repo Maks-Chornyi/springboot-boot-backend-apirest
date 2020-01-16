@@ -9,5 +9,4 @@ public class SpringbootBootBackendApirestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootBootBackendApirestApplication.class, args);
     }
-
 }
